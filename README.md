@@ -1,4 +1,5 @@
-# WGMY2022CTF Writeups
+# Wargames.my 2022 Writeups
+This is my first time joining WGMY2022CTF in the Student Category.
 * notes:
   * This is not an official writeups for WGMY2022CTF. I just made it for fun.
   * In these writeups, I use the Malay language.
